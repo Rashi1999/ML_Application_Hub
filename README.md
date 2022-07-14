@@ -1,5 +1,11 @@
 # ML_Application_Hub
-A flask web application demonstrating the use of ML in solving real-world problems in different domains.
+A flask web application demonstrating the use of ML in solving real-world problems in different domains under 6 main hoods :
+1. Classification - PIMA Indian Diabetes
+2. Regression - Car Price Prediction, Bengaluru House Price Estimation
+3. Recommendation Engine - Collaborative Movies Recommendation Engine
+4. Natural Language Processing - Duplicate Question Pair Identification, Email Spam/Ham Classification
+5. Chatbot - Currency Conversion
+6. Deep Learning - Fashion Image Search Engine, Stock Proce Prediction, Body Posture Detection
 
 ## Home Page
 <img width="1423" alt="image" src="https://user-images.githubusercontent.com/67457284/177142134-3682353f-7e87-479b-9987-04df07b91883.png">
